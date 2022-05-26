@@ -1,0 +1,223 @@
+#  Doesn't have any letters
+#. fMain..puSystray..N2..Caption
+#: uMain.dfm:3009
+#. fMain..puSystray..N1..Caption
+#: uMain.dfm:3052
+msgid "-"
+msgstr ""
+
+#  Seems like a Font.Name extract
+#. fConfigUserDefined..Font.Name
+#: uConfigUserDefined.dfm:11
+#. fConfigUserDefined..lblDescription1..Font.Name
+#: uConfigUserDefined.dfm:38
+#. fConfigUserDefined..lblDescription2..Font.Name
+#: uConfigUserDefined.dfm:55
+#. fConfigUserDefined..pcUserDefConf..pApache..pnlApache..lblApacheConf..Font.Name
+#: uConfigUserDefined.dfm:175
+#. fConfigUserDefined..pcUserDefConf..pApache..pnlApache..lblApacheLogs..Font.Name
+#: uConfigUserDefined.dfm:192
+#. fConfigUserDefined..pcUserDefConf..pMySQL..pnlMySQL..lblMySQLConf..Font.Name
+#: uConfigUserDefined.dfm:246
+#. fConfigUserDefined..pcUserDefConf..pMySQL..pnlMySQL..lblMySQLLogs..Font.Name
+#: uConfigUserDefined.dfm:263
+#. fConfigUserDefined..pcUserDefConf..pFileZilla..pnlFileZilla..lblFileZillaConf..Font.Name
+#: uConfigUserDefined.dfm:317
+#. fConfigUserDefined..pcUserDefConf..pFileZilla..pnlFileZilla..lblFileZillaLogs..Font.Name
+#: uConfigUserDefined.dfm:334
+#. fConfigUserDefined..pcUserDefConf..pMercury..pnlMercury..lblMercuryConf..Font.Name
+#: uConfigUserDefined.dfm:388
+#. fConfigUserDefined..pcUserDefConf..pMercury..pnlMercury..lblMercuryLogs..Font.Name
+#: uConfigUserDefined.dfm:405
+#. fConfigUserDefined..pcUserDefConf..TabSheet5..pnlTomcat..lblTomcatConf..Font.Name
+#: uConfigUserDefined.dfm:459
+#. fConfigUserDefined..pcUserDefConf..TabSheet5..pnlTomcat..lblTomcatLogs..Font.Name
+#: uConfigUserDefined.dfm:476
+#. fHelp..Font.Name
+#: uHelp.dfm:11
+#. fHelp..lblMainProg..Font.Name
+#: uHelp.dfm:34
+#. fHelp..lblSecondProg..Font.Name
+#: uHelp.dfm:51
+#. fHelp..lblHelpEng..Font.Name
+#: uHelp.dfm:68
+#. fHelp..lblHelpGer..Font.Name
+#: uHelp.dfm:85
+#. fHelp..lblHelpEngLink..Font.Name
+#: uHelp.dfm:98
+#. fHelp..lblHelpGerLink..Font.Name
+#: uHelp.dfm:112
+#. fLanguage..Font.Name
+#: uLanguage.dfm:13
+#. fLogOptions..Font.Name
+#: uLogOptions.dfm:11
+#. fLogOptions..lblLogFont..Font.Name
+#: uLogOptions.dfm:27
+#. fLogOptions..lblLogFontSize..Font.Name
+#: uLogOptions.dfm:40
+#. fLogOptions..tLogFont..Font.Name
+#: uLogOptions.dfm:53
+#. fLogOptions..bSelect..Font.Name
+#: uLogOptions.dfm:67
+#. fLogOptions..tLogFontSize..Font.Name
+#: uLogOptions.dfm:82
+#. fLogOptions..bSave..Font.Name
+#: uLogOptions.dfm:96
+#. fLogOptions..bCancel..Font.Name
+#: uLogOptions.dfm:138
+#. fLogOptions..FontDialog..Font.Name
+#: uLogOptions.dfm:176
+#. fMain..Font.Name
+#: uMain.dfm:12
+#. fMain..lHeader..Font.Name
+#: uMain.dfm:1015
+#. fMain..reLog..Font.Name
+#: uMain.dfm:1032
+#. fMain..bConfig..Font.Name
+#: uMain.dfm:1053
+#. fMain..bSCM..Font.Name
+#: uMain.dfm:1099
+#. fMain..gbModules..Font.Name
+#: uMain.dfm:1145
+#. fMain..gbModules..lPIDs..Font.Name
+#: uMain.dfm:1163
+#. fMain..gbModules..lPorts..Font.Name
+#: uMain.dfm:1181
+#. fMain..gbModules..lServices..Font.Name
+#: uMain.dfm:1307
+#. fMain..gbModules..lModules..Font.Name
+#: uMain.dfm:1325
+#. fMain..gbModules..lActions..Font.Name
+#: uMain.dfm:1342
+#. fMain..bQuit..Font.Name
+#: uMain.dfm:1801
+#. fMain..bHelp..Font.Name
+#: uMain.dfm:1847
+#. fMain..bExplorer..Font.Name
+#: uMain.dfm:1893
+#. fMain..bNetstat..Font.Name
+#: uMain.dfm:1939
+#. fMain..bXamppShell..Font.Name
+#: uMain.dfm:1985
+#. fNetstat..Font.Name
+#: uNetstat.dfm:12
+#. fNetstat..lvSockets..Font.Name
+#: uNetstat.dfm:58
+#. fNetstat..pnlActiveExample..Font.Name
+#: uNetstat.dfm:112
+#. fNetstat..pnlOldExample..Font.Name
+#: uNetstat.dfm:132
+#. fNetstat..pnlNewExample..Font.Name
+#: uNetstat.dfm:152
+#. fServiceSettings..Font.Name
+#: uServiceSettings.dfm:11
+#. fServiceSettings..lMain..Font.Name
+#: uServiceSettings.dfm:33
+#. fServiceSettings..pcSettings..pApache..gApache..tApacheName..Font.Name
+#: uServiceSettings.dfm:159
+#. fServiceSettings..pcSettings..pApache..gApache..tApacheMain..Font.Name
+#: uServiceSettings.dfm:172
+#. fServiceSettings..pcSettings..pApache..gApache..tApacheSSL..Font.Name
+#: uServiceSettings.dfm:185
+#. fServiceSettings..pcSettings..pMySQL..gMySQL..tMySQLMain..Font.Name
+#: uServiceSettings.dfm:229
+#. fServiceSettings..pcSettings..pMySQL..gMySQL..tMySQLName..Font.Name
+#: uServiceSettings.dfm:242
+#. fServiceSettings..pcSettings..pFileZilla..gFileZilla..tFileZillaMain..Font.Name
+#: uServiceSettings.dfm:293
+#. fServiceSettings..pcSettings..pFileZilla..gFileZilla..tFileZillaName..Font.Name
+#: uServiceSettings.dfm:306
+#. fServiceSettings..pcSettings..pFileZilla..gFileZilla..tFileZillaAdmin..Font.Name
+#: uServiceSettings.dfm:319
+#. fServiceSettings..pcSettings..pMercury..gMercury..tMercuryP1..Font.Name
+#: uServiceSettings.dfm:398
+#. fServiceSettings..pcSettings..pMercury..gMercury..tMercuryP2..Font.Name
+#: uServiceSettings.dfm:411
+#. fServiceSettings..pcSettings..pMercury..gMercury..tMercuryP3..Font.Name
+#: uServiceSettings.dfm:424
+#. fServiceSettings..pcSettings..pMercury..gMercury..tMercuryP4..Font.Name
+#: uServiceSettings.dfm:437
+#. fServiceSettings..pcSettings..pMercury..gMercury..tMercuryP5..Font.Name
+#: uServiceSettings.dfm:450
+#. fServiceSettings..pcSettings..pMercury..gMercury..tMercuryP6..Font.Name
+#: uServiceSettings.dfm:463
+#. fServiceSettings..pcSettings..pMercury..gMercury..tMercuryP7..Font.Name
+#: uServiceSettings.dfm:476
+#. fServiceSettings..pcSettings..pTomcat..gTomcat..tTomcatMain..Font.Name
+#: uServiceSettings.dfm:534
+#. fServiceSettings..pcSettings..pTomcat..gTomcat..tTomcatHTTP..Font.Name
+#: uServiceSettings.dfm:547
+#. fServiceSettings..pcSettings..pTomcat..gTomcat..tTomcatAJP..Font.Name
+#: uServiceSettings.dfm:560
+#. fServiceSettings..pcSettings..pTomcat..gTomcat..tTomcatName..Font.Name
+#: uServiceSettings.dfm:573
+msgid "Arial"
+msgstr ""
+
+#  Doesn't look like text
+#. Programmer's name: JpgImage_1 RCDATA
+#: xampp_control3Resource.rc:1
+msgid "gfx\\150px-Flag_of_Germany.svg.jpg"
+msgstr ""
+
+#  Doesn't look like text
+#. Programmer's name: JpgImage_2 RCDATA
+#: xampp_control3Resource.rc:2
+msgid "gfx\\150px-Flag_of_the_United_States.svg.jpg"
+msgstr ""
+
+#  Doesn't look like text
+#. Programmer's name: Bitmap_3 BITMAP
+#: xampp_control3Resource.rc:4
+msgid "gfx\\Checked2.bmp"
+msgstr ""
+
+#  Doesn't look like text
+#. Programmer's name: Bitmap_4 BITMAP
+#: xampp_control3Resource.rc:5
+msgid "gfx\\Open16x16.bmp"
+msgstr ""
+
+#  Doesn't look like text
+#. fHelp..lblHelpEngLink..Caption
+#: uHelp.dfm:94
+msgid "http://www.apachefriends.org/f/viewforum.php?f=16"
+msgstr ""
+
+#  Doesn't look like text
+#. fHelp..lblHelpGerLink..Caption
+#: uHelp.dfm:108
+msgid "http://www.apachefriends.org/f/viewforum.php?f=4"
+msgstr ""
+
+#  Doesn't look like text
+#: uMain.pas:1081
+msgid "http://www.microsoft.com/download/en/details.aspx?id=5582"
+msgstr ""
+
+#  Seems like a Font.Name extract
+#. fConfig..Font.Name
+#: uConfig.dfm:11
+#. fConfig..grpAutostart..lblAutostart..Font.Name
+#: uConfig.dfm:304
+msgid "Tahoma"
+msgstr ""
+
+#  Seems like a Font.Name extract
+#. fMain..Font.Name
+#: uMain.dfm:12
+#. fMain..lHeader..Font.Name
+#: uMain.dfm:1015
+#. fMain..gbModules..lPIDs..Font.Name
+#: uMain.dfm:1091
+#. fMain..gbModules..lPorts..Font.Name
+#: uMain.dfm:1109
+#. fMain..gbModules..Label1..Font.Name
+#: uMain.dfm:1235
+#. fMain..gbModules..Label2..Font.Name
+#: uMain.dfm:1254
+#. fMain..gbModules..Label3..Font.Name
+#: uMain.dfm:1272
+msgid "Verdana"
+msgstr ""
+
