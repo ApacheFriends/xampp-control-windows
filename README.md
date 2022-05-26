@@ -3,6 +3,8 @@ xampp-control-panel-windows
 
 The XAMPP control panel is a little Delphi application that helps on the daily usage of XAMPP on Windows. Apart from starting and stopping services, it provides extended features like installing the component as a Windows service, checking the logs or launching a cmd console with a preloaded environment in which you can run maintenance commands.
 
+This tool was originally created by Steffen Strueber.
+
 ## Building XAMPP control panel for Windows
 
 The XAMPP control panel for Windows is currently built using the [Delphi 10 software](https://downloads.embarcadero.com/Item/30352) trial version. The basic workflow for building the XAMPP control panel is listed below:
