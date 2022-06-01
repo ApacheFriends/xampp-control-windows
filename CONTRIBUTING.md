@@ -77,7 +77,7 @@ Additionally, there are other fields that can be useful:
 > 1. The work under a GitHub issue is more manageable if divided into smaller units or maybe easier to understand in the review process.
 > 2. The merge request that closed the GitHub issue was incomplete.
 
-Just create a branch following the same naming convention plus `-2` (or any subsequent number) like `feature/my-issue-2`. Also, make sure the pull request description is titled accordingly.
+Just create a branch following the same naming convention plus `-2` (or any subsequent number) like `feature/<ISSUE-ID>-2`. Also, make sure the pull request description is titled accordingly.
 
 ## Branching Strategy
 
@@ -100,19 +100,19 @@ So we need an orderly, controlled way of dealing with them: Enter Branching Stra
 
 * One branch per *feature*
 * May branch off from `main`
-* Naming convention is `feature/my-feature-desciption`
+* Naming convention is `feature/<ISSUE-ID>`
 
 #### bugfix branches
 
 * One branch per *bugfix*
 * May branch off from `main`
-* Naming convention is `bugfix/my-feature-desciption`
+* Naming convention is `bugfix/<ISSUE-ID>`
 
 #### revert branches
 
 * One branch per *revert*
 * May branch off from `main`
-* Naming convention is `revert/my-feature-desciption`
+* Naming convention is `revert/<ISSUE-ID>`
 
 ## Merging a Merge Request
 
